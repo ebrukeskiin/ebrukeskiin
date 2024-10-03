@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ebru</h1>
-<h3 align="center">Software Developer</h3>
+<h1>Hi 👋, I'm Ebru</h1>
+<h3>Software Developer</h3>
 
 - 🌱 I’m currently learning **.Net Core,React,C#,Javascript,Node.js**
 
-- 📫 How to reach me **ebrukeskin.ek6@gmail.com**
+- 📫 How to reach me send to email**ebrukeskin.ek6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
