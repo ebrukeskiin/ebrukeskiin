@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Ebru</h1>
-<h3>Software Developer</h3>
+<h3>About Me</h3>
 
 - 🌱 I’m currently learning **.Net Core,React,C#,Javascript,Node.js**
 
