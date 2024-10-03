@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌟I fresh graduated from computer engineering.<br>🔭 I’m currently working on full-stack projects<br>🌱 I’m currently learning .Net Core,Node js,React<br> 
-- 📫 How to reach me send to email**ebrukeskin.ek6@gmail.com**
+📫 How to reach me send email to**ebrukeskin.ek6@gmail.com**
 
 
 ## 🌐 Socials:
